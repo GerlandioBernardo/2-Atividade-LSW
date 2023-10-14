@@ -1,0 +1,21 @@
+#geral, #sec{
+    display: flex;
+    justify-content: center;
+}
+#input{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+::placeholder{
+    font-size: 20px;
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}

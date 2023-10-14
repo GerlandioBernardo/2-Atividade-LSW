@@ -1,0 +1,31 @@
+#geral{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+#input1, #input2{
+    width: 300px;
+    height: 35px;
+    font-size: 20px;
+}
+#button{
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 20px;
+}
+#button:hover{
+    cursor: pointer;  
+    background-color: blue; 
+}
+p{
+    font-size: 20px;
+}
+#resposta{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+
+}

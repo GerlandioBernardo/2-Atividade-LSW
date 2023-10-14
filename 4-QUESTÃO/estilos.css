@@ -1,0 +1,34 @@
+#geral, #sec{
+    display: flex;
+    justify-content: center;
+}
+#nome, #salario{
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+li{
+    font-size: 25px;
+}
+ul{
+    text-align: center;
+    list-style: none;
+}
